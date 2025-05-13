@@ -13,8 +13,8 @@ OFICINA/
 ├── venv/             # Ambiente virtual do Python
 ├── enviar_email.py   # Script para envio do relatório por e-mail
 ├── relatorio.py      # Script para gerar o relatório estatístico
-└── scraper.py        # Script para coletar os dados dos livros (web scraping)
-```
+└──        # Script para coletar os dados dos livros (web scraping)
+```scraper.py 
 
 ---
 
